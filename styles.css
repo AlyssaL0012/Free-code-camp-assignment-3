@@ -248,6 +248,9 @@ h3{
 	font-family:  Sans-serif;
 }
 
+footer p{
+	margin: 20px;
+}
 
 @media (max-width:600px){
 	#top{
