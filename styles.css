@@ -338,7 +338,8 @@ footer p{
 @media screen and (min-width:414px) and (max-width:768px), (max-width:414px){
 #top{
 	height:100vh;
-	flex-direction: column;
+}
+#top #click{
 	align-items: center;
 }
 		
