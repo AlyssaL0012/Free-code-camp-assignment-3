@@ -372,7 +372,7 @@ h1{
 #line-1{
 	width: 40px;
 	height:10px;
-	margin:30px;
+	margin:10%;
 }
 
 nav{
@@ -388,8 +388,8 @@ nav li{
 /*main*/
 
 body{
-	border:2px solid #192d87;
-	margin:10px;
+	margin:auto;
+	padding:10px;
 }
 #container{
 	flex-direction: column;
