@@ -336,7 +336,7 @@ footer p{
 		}
 }
 
-@media only screen and (max-width:414px){
+@media screen, (max-width:414px) and (orientation: landscape){
 #top{
 	height:100vh;
 }
