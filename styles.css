@@ -337,3 +337,13 @@ footer p{
 			font-size: 1.2rem;
 		}
 }
+
+@media only screen and (max-width:414px){
+#top{
+	flex-direction: column;
+	align-items: center;
+}
+#line-1{
+	display:none;
+}
+}
