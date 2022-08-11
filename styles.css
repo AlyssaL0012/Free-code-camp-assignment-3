@@ -339,7 +339,7 @@ footer p{
 
 @media only screen and (max-width:414px){
 #top{
-	height:800px;
+	height:700px;
 }
 		
 #combine{
@@ -370,5 +370,6 @@ h1{
 
 #container{
 	flex-direction: column;
+	align-items: center;
 }
 }
