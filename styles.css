@@ -347,11 +347,13 @@ footer p{
 	align-items: center;
 	margin:20px;
 	padding:10px;
+	border: 2px solid greenyellow;
 }
 
 #click, #me{
-	font-size:1rem;
+	font-size:20px;
 }
+
 #me{
 position:absolute;
 top:30px;
@@ -383,6 +385,7 @@ nav li{
 }
 
 #container{
+	max-width: 400px;
 	flex-direction: column;
 	align-items: center;
 }
