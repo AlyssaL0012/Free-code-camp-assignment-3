@@ -253,6 +253,11 @@ footer p{
 }
 
 @media (max-width:600px){
+	body{
+		border:2px solid #192d87;
+		margin:0 -40px;
+	}
+	
 	#top{
 		width: 100%;;
 		height:330px;
@@ -316,11 +321,6 @@ footer p{
 		}
 
 	/*Main*/
-
-	body{
-		border:2px solid #192d87;
-		margin:0 -40px;
-	}
 		section{
 			margin:0;
 			padding:10px 0;
@@ -336,7 +336,12 @@ footer p{
 }
 
 @media screen and (max-width:414px){
-#top{
+	body{
+		margin:0;
+		padding:0;
+		border:none;
+	}#top{
+
 	height:100vh;
 }
 #top #click{
@@ -389,10 +394,7 @@ nav li{
 }
 /*main*/
 
-body{
-	margin:0;
-	padding:0;
-}
+
 #container{
 	flex-direction: column;
 	align-items: center;
