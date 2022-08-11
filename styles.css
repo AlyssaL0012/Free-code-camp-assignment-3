@@ -137,6 +137,7 @@ display:flex;
 display:block;
 position: sticky;
 top: 40px;
+left:0;
 }
 
 #image-title{
