@@ -252,18 +252,19 @@ footer p{
 	margin: 30px;
 }
 @media (max-width:750px){
+	
+	#top{
+		width: 100%;;
+		height:auto;
+		align-items: center;
+	}
 
-}
-@media (max-width:600px){
 	h1{
 		font-size: 2.5rem;
 	}
-
-	#top{
-		width: 100%;;
-		height:330px;
-		align-items: center;
-	}
+}
+@media (max-width:600px){
+	
 
 	#combine{
 		padding:10px 30px;
