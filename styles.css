@@ -268,10 +268,10 @@ footer p{
 	}
 
 	nav{
-		height:170vh;
+		height:200vh;
 		margin-right:10px;
 		overflow: scroll;
-		border: 2px solid greenyellow;
+		border: 2px solid pink;
 	}
 
 	#image-title{
