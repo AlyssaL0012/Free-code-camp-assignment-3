@@ -273,7 +273,7 @@ footer p{
 		padding-bottom:40px;
 		margin-right:10px;
 		overflow: scroll;
-		border: 2px solid blue;
+		border: 2px solid greenyellow;
 	}
 
 	#image-title{
@@ -295,7 +295,7 @@ footer p{
 	/*Main*/
 
 	#content header{
-		font-size: 1.5rem;
+		font-size: 1.3rem;
 	}
 }
 
@@ -339,32 +339,12 @@ footer p{
 		width:180px;
 		margin-right:10px;
 		}
-/*may be over*/
-		#image-title{
-			justify-content: left;
-			font-size: 0.8rem;
-			width:100%;
-			height:auto;
-		}
 
-		nav img{
-			width:15px;
-			height: 15px;
-			margin:3px;
-		}
-
-		nav li {
-			font-size: 0.8rem;
-		}
 
 	/*Main*/
 		section{
 			margin:0;
 			padding:10px 0;
-		}
-
-		#content header{
-			font-size: 1.3rem;
 		}
 
 		h3{
