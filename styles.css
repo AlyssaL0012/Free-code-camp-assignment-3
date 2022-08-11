@@ -251,12 +251,13 @@ h3{
 footer p{
 	margin: 30px;
 }
+@media (max-width:750px){
 
+}
 @media (max-width:600px){
-	/*body{
-		margin:0;
-		padding:0;
-		border:none;*/
+	h1{
+		font-size: 2.5rem;
+	}
 
 	#top{
 		width: 100%;;
