@@ -339,7 +339,7 @@ footer p{
 }
 
 @media only screen and (max-width:414px){
-#top{
+#combine{
 	flex-direction: column;
 	align-items: center;
 }
