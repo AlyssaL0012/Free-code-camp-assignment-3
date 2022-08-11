@@ -338,7 +338,7 @@ footer p{
 
 @media only screen and (max-width:414px){
 #top{
-	height:700px;
+	height:100vh;
 }
 		
 #combine{
