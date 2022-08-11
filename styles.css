@@ -32,7 +32,6 @@ vertical-align: center;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	position:relative;
 }
 #me{
 background:none;
@@ -343,6 +342,10 @@ footer p{
 	flex-direction: column;
 	align-items: center;
 }
+h1{
+	font-size: 50px;
+}
+
 #line-1{
 	width: 40px;
 	height:10px;
