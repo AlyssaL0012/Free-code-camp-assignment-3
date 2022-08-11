@@ -347,7 +347,6 @@ footer p{
 	align-items: center;
 	margin:20px;
 	padding:10px;
-	border: 2px solid greenyellow;
 }
 
 #click, #me{
@@ -378,6 +377,7 @@ h1{
 nav{
 	width: 300px;;
 	margin:10px;
+	position:unset;
 }
 
 nav li{
@@ -391,6 +391,7 @@ nav li{
 
 #content{
 width: 100vw;
+margin: 20px;
 }
 
 }
