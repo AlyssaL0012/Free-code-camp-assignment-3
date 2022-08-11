@@ -135,7 +135,7 @@ padding-right: 20px;
 display:flex;
 display:block;
 position: sticky;
-top: 40px;
+top: 30px;
 }
 
 #image-title{
@@ -269,10 +269,11 @@ footer p{
 
 	nav{
 		min-width:190px;
-		height:200vh;
+		height:90vh;
+		padding-bottom:40px;
 		margin-right:10px;
 		overflow: scroll;
-		border: 2px solid red;
+		border: 2px solid blue;
 	}
 
 	#image-title{
