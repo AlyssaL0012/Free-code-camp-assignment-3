@@ -351,6 +351,7 @@ footer p{
 
 #click, #me{
 	font-size:20px;
+	margin:0;
 }
 
 #me{
@@ -376,6 +377,7 @@ h1{
 
 nav{
 	width: 300px;;
+	height:auto;
 	margin:10px;
 	position:unset;
 }
@@ -383,7 +385,12 @@ nav{
 nav li{
  margin: 10px;
 }
+/*main*/
 
+body{
+	border:2px solid #192d87;
+	margin:10px;
+}
 #container{
 	flex-direction: column;
 	align-items: center;
