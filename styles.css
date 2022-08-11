@@ -347,10 +347,11 @@ footer p{
 	justify-items: center;
 	align-items: center;
 	margin:20px;
+	padding:10px;
 }
 
 #click, #me{
-	font-size:2rem;
+	font-size:3rem;
 }
 
 h1{
