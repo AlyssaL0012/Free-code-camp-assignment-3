@@ -335,7 +335,7 @@ footer p{
 		}
 }
 
-@media screen and (min-width:414px) and (max-width:768px), (max-width:414px){
+@media screen and (max-width:414px){
 #top{
 	height:100vh;
 }
