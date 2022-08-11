@@ -44,7 +44,6 @@ right:50px;
 width:auto;
 max-width: 150px;
 height:auto;
-z-index: 1;
 padding:10px;
 border: 2px solid #EBA825;
 border-radius: 10px;
@@ -352,6 +351,11 @@ footer p{
 
 #click, #me{
 	font-size:3rem;
+}
+#me{
+position:absolute;
+top:30px;
+right:30px;
 }
 
 h1{
